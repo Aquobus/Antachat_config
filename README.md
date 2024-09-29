@@ -1,2 +1,1 @@
-# Antachat_config
-Lizhuzachokopai
+цйцгйурйцтвуцулцйуцйлуцйу
