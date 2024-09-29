@@ -1,2 +1,5 @@
-# Antachat_config
-Lizhuzachokopai
+[
+  "писькагрыз",
+  "очкомангуста",
+  "ыыхуй"
+]
